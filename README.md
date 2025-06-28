@@ -1,6 +1,6 @@
 # 好滋味杂货铺官网地址
 
-最新地址：[haotas.com](https://console.haotas.com/#/register?code=Gy5jeJ8N)
+最新地址：[haotas.com]()
 
 > 打不开请使用代理
 
